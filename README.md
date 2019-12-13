@@ -7,6 +7,6 @@
 - Run `$ python3 main.py` in your terminal while in the directory 'mondrian-generator'
 
 ## Examples
-![Example 1](https://github.com/TylerWalker12/mondrian-generator/examples/example1.png)
-![Example 2](https://github.com/TylerWalker12/mondrian-generator/examples/example2.png)
+![Example 1](https://raw.githubusercontent.com/TylerWalker12/mondrian-generator/master/examples/example1.png)
+![Example 2](https://raw.githubusercontent.com/TylerWalker12/mondrian-generator/master/examples/example2.png)
 
